@@ -17,3 +17,4 @@
 - What are the current communications methods used by the Bitcoin Foundation Mmebership, Board and Staff.
 - What are the rules for participating on the Bitcoin Foundation forums?
 - Why is the Bitcoin Foundation Forum available to read by non-members?
+- What are the benefits of joining the Bitcoin Foundation?
